@@ -271,4 +271,3 @@ Summary of raw data quality and data alignment quality results (EXAMPLE)
 | exonic                           | Qualimap     | Ratio of bases aligned to exonic region       | 40% - 60% |
 | intronic                         | Qualimap     |  Ratio of bases aligned to intronic region       | 40% - 60% |
 | intergenic                       | Qualimap     |Ratio of bases aligned to intergenic region  | < 10%     |
-|
